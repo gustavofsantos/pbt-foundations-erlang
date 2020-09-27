@@ -1,9 +1,8 @@
-pbt
-=====
+Property Based Testing - Foundations
 
-An OTP library
+- Property testing is just like any other piece of Erlang code.
 
-Build
------
 
-    $ rebar3 compile
+## Commands
+
+- `rebar3 proper`: run the properties
